@@ -32,6 +32,6 @@ function checkMatch() {
     }
     openCards = [];
     if (document.querySelectorAll(".boxMatch").length == emojis.length) {
-        alert("Parabéns!")
+        alert("Parabéns, você venceu!")
     }
 }
